@@ -1,1 +1,1 @@
-# I LOVE STORY TIME!
+# John should die
