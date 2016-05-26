@@ -3,7 +3,16 @@ Location: Grace Hopper
 5/25/2016
 @fonzilla
 * Aziz was here
-Andrew
-** Jenna was here
-* Jumpin' John was here
------ losers below this line -----
+
+
+
+
+
+
+
+
+
+
+*   *
+  *
+\____/
